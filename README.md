@@ -9,14 +9,14 @@ names, version, copyable address, a button to your Discord or website.
 **For followers:** push notifications via rules you define, e.g. "{count}
 players joined: {player_list}" every 10 minutes.
 
-Part of the [LinkHarbor integrations](https://github.com/linkharbor/linkharbor-integrations)
+Part of the [LinkHarbor integrations](https://github.com/linkharbor/integrations)
 family (one repo per game). Running a Bedrock server? See
-[linkharbor-minecraft-bedrock](https://github.com/linkharbor/linkharbor-minecraft-bedrock).
+[integration-minecraft-bedrock](https://github.com/linkharbor/integration-minecraft-bedrock).
 
 ## Install
 
 1. Download `LinkHarbor-<version>.jar` from the
-   [releases](https://github.com/linkharbor/linkharbor-minecraft/releases)
+   [releases](https://github.com/linkharbor/integration-minecraft/releases)
    and drop it into `plugins/`.
 2. Start the server once — it writes `plugins/LinkHarbor/config.yml`.
 3. In the LinkHarbor dashboard: **Workspace → Integrations → Custom (API)**,

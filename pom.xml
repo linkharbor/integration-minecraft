@@ -5,13 +5,13 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.linkharbor</groupId>
-  <artifactId>linkharbor-minecraft</artifactId>
+  <artifactId>integration-minecraft</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>LinkHarbor for Paper</name>
   <description>Pushes player joins/leaves and the live server state to a LinkHarbor bio page.</description>
-  <url>https://github.com/linkharbor/linkharbor-minecraft</url>
+  <url>https://github.com/linkharbor/integration-minecraft</url>
 
   <properties>
     <maven.compiler.release>21</maven.compiler.release>
