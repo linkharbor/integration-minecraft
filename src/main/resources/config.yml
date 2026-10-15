@@ -9,7 +9,7 @@
 #    (Workspace → Integrations → Push rules), e.g. a batch rule
 #    "{count} players joined" with a 10-minute window.
 
-ingest_url: "https://api.linkharbor.com/v1/ingest/0"
+ingest_url: "https://dock.at-harbor.com/v1/ingest/0"
 ingest_secret: ""
 
 # What the widget shows. `name` falls back to the server MOTD (first line).
