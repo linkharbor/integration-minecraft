@@ -1,0 +1,7 @@
+target/
+*.jar
+.idea/
+.vscode/
+.DS_Store
+# never commit a filled config
+config.local.yml
